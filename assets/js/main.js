@@ -53,7 +53,7 @@ sr.reveal('.work__img',{interval: 200});
 
 /*SCROLL CERTIFICATIONS*/
 sr.reveal('.section-title',{interval: 200});
-sr.reveal('.cert-img',{interval: 200});
+sr.reveal('.cert-img',{interval: 100});
 
 
 /*SCROLL CONTACT*/
