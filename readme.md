@@ -20,4 +20,4 @@
 
 Download or clone the repository onto your machine.
 Extract the .zip file.
-Open index.html file in your browser.
+Open index.html file in your browser. Live version of my portofolio can be found by visiting [this link](https://github.com/user/repo/blob/branch/other_file.md).
