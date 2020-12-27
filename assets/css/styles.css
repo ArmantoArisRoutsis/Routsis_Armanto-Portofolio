@@ -357,14 +357,15 @@ img{
 }
 
 .project-buttons a{
-  background-color: #0dad8b;
-  color:#fff;
+  color:#0dad8b;
   margin: 15px;
-  padding: 2px;
-  border-radius: 5px;
+  padding: 15x;
+  border: 2px solid #0dad8b;
+  transition: color 0.3s, background-color 0.3s;
 }
 .project-buttons a:hover{
-  background-color: #075f4c;
+  background-color: #0dad8b;
+  color: #fff;
 }
 
 /* MEDIA QUERIES */
